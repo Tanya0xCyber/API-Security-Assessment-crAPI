@@ -17,14 +17,15 @@ A hands-on security assessment of the **Completely Ridiculous API (crAPI)** focu
 |  ID | Finding                                  | Severity |
 | :-: | ---------------------------------------- | :------: |
 |  01 | Broken Object Level Authorization (BOLA) |   High   |
-|  02 | Broken Authentication                    |   High   |
+|  02 | Broken  user Authentication              |   High   |
 |  03 | Broken Function Level Authorization      |   High   |
 |  04 | Mass Assignment                          |  Medium  |
 |  05 | SQL Injection                            |   High   |
 |  06 | Server-Side Request Forgery (SSRF)       |   High   |
 |  07 | Rate Limiting                            |  Medium  |
-|  08 | Business Logic Flaws                     |  Medium  |
-
+|  08 | JWT Vulnerabilities                      |  Medium  |
+|  09 | Excessive Data Exposure                  |  Medium  |
+|  09 | LLM Vulnerabilities                      |  Medium  |
 ---
 
 ## Tools
