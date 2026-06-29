@@ -25,7 +25,7 @@ A hands-on security assessment of the **Completely Ridiculous API (crAPI)** focu
 |  07 | Rate Limiting                            |  Medium  |
 |  08 | JWT Vulnerabilities                      |  Medium  |
 |  09 | Excessive Data Exposure                  |  Medium  |
-|  09 | LLM Vulnerabilities                      |  Medium  |
+|  10 | LLM Vulnerabilities                      |  Medium  |
 ---
 
 ## Tools
