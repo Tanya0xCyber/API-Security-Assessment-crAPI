@@ -57,15 +57,14 @@ api-security-assessment-crapi/
 
 Each report contains:
 
-* Vulnerability Overview
-* Severity
-* Affected Endpoint
-* Steps to Reproduce
-* Request & Response
+* Overview
+* Reconnaissance
+* Vulnerability Analysis
+* Exploitation
 * Evidence
 * Impact
 * Remediation
-
+* References
 ---
 
 ## Disclaimer
